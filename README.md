@@ -26,3 +26,8 @@ Run `run.py`, you can find your result data in the above path in turn, the data 
 
 Please make sure you extract `Dataset.rar` to `/Dataset`.
 Open any `.ipynb` file you want to run, confirm that there is no problem with the path of the dataset, and run it to get the result.
+
+## Remark
+
+we use `python3.9`,`torch1.9.1`,`torchvision0.10.1`.
+For the model we used `tensorflow2.12.0`.
