@@ -30,4 +30,4 @@ Open any `.ipynb` file you want to run, confirm that there is no problem with th
 ## Remark
 
 we use `python3.9`,`torch1.9.1`,`torchvision0.10.1`.
-For the model we used `tensorflow2.12.0`.
+For the model, we used `tensorflow2.12.0`.
