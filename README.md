@@ -1,4 +1,4 @@
-# Diagnosis-of-knee-osteoarthritis
+# Preliminary screening of knee osteoarthritis
 
 ## Setup
 _Instructions refer to Windows-based systems
