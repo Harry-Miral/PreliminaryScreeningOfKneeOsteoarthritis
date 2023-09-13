@@ -27,6 +27,11 @@ Run `run.py`, you can find your result data in the above path in turn, the data 
 Please make sure you extract `Dataset.rar` to `/Dataset`.
 Open any `.ipynb` file you want to run, confirm that there is no problem with the path of the dataset, and run it to get the result.
 
+## Qualitative analysis and quantitative analysis
+
+First locate the `DWT analysis` directory, download the compressed package from Google Cloud Disk and extract it to the directory, and run the .ipynb file to obtain the analysis report.
+`https://drive.google.com/file/d/1xosX7hiPJllVZb8KQPXVCXbUYWxQabyl/view?usp=drive_link`
+
 ## Remark
 
 we use `python3.9`,`torch1.9.1`,`torchvision0.10.1`.
