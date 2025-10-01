@@ -29,7 +29,7 @@ Open any `.ipynb` file you want to run, confirm that there is no problem with th
 
 ## Qualitative analysis and quantitative analysis
 
-First locate the `DWT analysis` directory, download the compressed package from Google Cloud Disk and extract it to the directory, and run the .ipynb file to obtain the analysis report.
+First locate the `DWT analysis` directory, download the compressed package from Google Cloud Disk and extract it to the directory, and run the .py file to obtain the analysis report.
 
 `https://drive.google.com/file/d/1xosX7hiPJllVZb8KQPXVCXbUYWxQabyl/view?usp=sharing`
 
@@ -37,3 +37,4 @@ First locate the `DWT analysis` directory, download the compressed package from 
 
 we use `python3.9`,`torch1.9.1`,`torchvision0.10.1`.
 For the model, we used `tensorflow2.12.0`.
+
